@@ -1,2 +1,5 @@
 # CodeJam
-A compilation of code solving coding changllenges from google codejam, ACM – ICPC, code chef and more ...
+A compilation of code solving algorithmic chanllenges from  codejam, ACM – ICPC, code chef and more ...
+
+#How to run solutions
+Open an issue asking for directons!
